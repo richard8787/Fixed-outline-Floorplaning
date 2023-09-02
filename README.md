@@ -11,3 +11,5 @@ make
 ```
 ./fp <alpha value> <input_block file> <input_net file> <output_file>
 ```
+
+- Credit: Physical Design for Nanometer ICs, Spring 2023 @ National Taiwan University
