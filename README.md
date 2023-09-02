@@ -1,4 +1,4 @@
-# Fixed-outline-Floorplaning
+# Fixed-outline-Floorplanning
 Implement fast simulated annealing to do fixed-outline floorplanning
 
 ## Compile and Execute
