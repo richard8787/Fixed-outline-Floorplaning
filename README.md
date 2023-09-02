@@ -1,5 +1,5 @@
 # Fixed-outline-Floorplaning
-Implement fast simulated annealing to do fixed-outline floorplaning
+Implement fast simulated annealing to do fixed-outline floorplanning
 
 ## Compile and Execute
 
