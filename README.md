@@ -5,8 +5,7 @@ Implement fast simulated annealing to do fixed-outline floorplanning
 
 - Compile
 ```
-make clean
-make
+make clean && make
 ```
 
 - Run
